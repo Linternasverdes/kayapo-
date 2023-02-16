@@ -1,24 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1,Latino | ADN40
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/42
-#EXTINF:-1,Latino | Aficionados
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/43
-#EXTINF:-1,Latino | AMC
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/44
-#EXTINF:-1,Latino | Animal Planet
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/45
-#EXTINF:-1,Latino | Antena 3
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/46
-#EXTINF:-1,Latino | AXN
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/47
-#EXTINF:-1,Latino | AXN White
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/48
-#EXTINF:-1,Latino |Deportes AyM
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/49
-#EXTINF:-1,Latino | cine az
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/50
-#EXTINF:-1,Latino | AZ Corazón
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/51
-#EXTINF:-1,Latino | AZ Mundo
-http://soberon.us:25461/m0nk3ynew/sMbK7mENr5/52
+http://soberon.us:25461/get.php?username=m0nk3ynew&password=sMbK7mENr5&type=m3u
